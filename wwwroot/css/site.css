@@ -23,3 +23,9 @@ body {
 .FotoPrincipal{
     text-align: center;
 }
+.instagram-media {
+    max-width: 540px;
+    min-width: 326px;
+    margin: auto;
+    text-align: center;
+}
