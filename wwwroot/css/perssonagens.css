@@ -1,0 +1,11 @@
+﻿.estilopersonagens {
+    display: grid; /* Define o grid */
+    grid-template-columns: repeat(2, 1fr); /* Cria duas colunas de larguras iguais */
+    grid-template-rows: repeat(2, 1fr); /* Cria duas linhas de alturas iguais */
+    gap: 20px; /* Espaço entre os itens */
+}
+.estilopersonagens img{
+    width: 650px;
+    height: 350px;
+    border-radius: 8px;
+}

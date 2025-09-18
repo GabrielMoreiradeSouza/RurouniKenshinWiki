@@ -1,0 +1,9 @@
+# Ignorar cache do Visual Studio
+.vs/
+*.vsidx
+*.user
+*.suo
+
+# Ignorar pastas de compilação
+bin/
+obj/

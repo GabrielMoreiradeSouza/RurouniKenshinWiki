@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NovaPasta\**" />
+    <Compile Remove="Pages\NovaPasta1\**" />
+    <Compile Remove="Pages\NovaPasta\**" />
+    <Compile Remove="Pages\PagesCss\**" />
+    <Compile Remove="wwwroot\css\NovaPasta\**" />
+    <Content Remove="NovaPasta\**" />
+    <Content Remove="Pages\NovaPasta1\**" />
+    <Content Remove="Pages\NovaPasta\**" />
+    <Content Remove="Pages\PagesCss\**" />
+    <Content Remove="wwwroot\css\NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="Pages\NovaPasta1\**" />
+    <EmbeddedResource Remove="Pages\NovaPasta\**" />
+    <EmbeddedResource Remove="Pages\PagesCss\**" />
+    <EmbeddedResource Remove="wwwroot\css\NovaPasta\**" />
+    <None Remove="NovaPasta\**" />
+    <None Remove="Pages\NovaPasta1\**" />
+    <None Remove="Pages\NovaPasta\**" />
+    <None Remove="Pages\PagesCss\**" />
+    <None Remove="wwwroot\css\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\Shared\Personagens.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\Shared\Personagens.cshtml" />
+  </ItemGroup>
+
+</Project>
