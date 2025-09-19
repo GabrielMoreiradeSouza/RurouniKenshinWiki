@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RurouniKenshinWiki", "RurouniKenshinWiki.csproj", "{316A9767-B435-FD10-F0A9-1A3FED0B9017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316A9767-B435-FD10-F0A9-1A3FED0B9017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316A9767-B435-FD10-F0A9-1A3FED0B9017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316A9767-B435-FD10-F0A9-1A3FED0B9017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316A9767-B435-FD10-F0A9-1A3FED0B9017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E6CCA0-6F76-4F9A-B60D-16B88DB7F53D}
+	EndGlobalSection
+EndGlobal
